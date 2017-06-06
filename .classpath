@@ -8,5 +8,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="lib/javax.faces-api-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-core-4.3.11.Final.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
