@@ -46,5 +46,7 @@ Contributor(s):
     <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/websitebuilder?zeroDateTimeBehavior=convertToNull</property>
     <property name="hibernate.connection.username">root</property>
     <property name="hibernate.connection.password">Iwonicz1</property>
+    <mapping resource="websitebuilder/Website.hbm.xml"/>
+    <mapping resource="websitebuilder/Users.hbm.xml"/>
   </session-factory>
 </hibernate-configuration>
